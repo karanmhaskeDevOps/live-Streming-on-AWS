@@ -1,6 +1,5 @@
 # live-Streming-on-AWS
 
-Here’s a template for your GitHub repository’s README file based on your experience with scaling and live streaming on AWS. Feel free to adjust the details as needed for your specific project:
 
 ---
 
