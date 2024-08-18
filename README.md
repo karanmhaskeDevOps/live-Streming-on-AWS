@@ -4,6 +4,8 @@ Here’s a template for your GitHub repository’s README file based on your exp
 
 ---
 
+![Screenshot 2024-08-07 094102](https://github.com/user-attachments/assets/2043e5f5-763a-47eb-8f3b-98e7c7f45797)
+
 # 📺 Live Streaming Architecture on AWS for Millions of Users
 
 Welcome to the repository for the **Live Streaming Architecture on AWS** project! This project demonstrates how to build a scalable live streaming solution capable of handling millions of concurrent viewers using AWS services such as Elemental MediaLive, MediaPackage, and CloudFront.
